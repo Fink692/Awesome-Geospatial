@@ -1788,7 +1788,7 @@ for geospatial and tabular data.
 * [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/)
 * [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html)
 * [sits: Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/)
-* [The Language of Spatial Analisys](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf)
+* [The Language of Spatial Analysis](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf)
 
 ## Conferences
 
@@ -1798,11 +1798,11 @@ for geospatial and tabular data.
 * [Geo For Good Summit](https://earthoutreachonair.withgoogle.com/events/geoforgood21) - Annual conference, hosted by Google, geared toward nonprofits, scientists, government agencies and other change-makers who want to leverage mapping tools and technology for positive impact in the world.
 * [GEOINFO](http://www.geoinfo.info/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
 * [GeoPython](https://2021.geopython.net/) - The conference is focused on Python and Geo, its toolkits and applications.
-* [International Syposium on Digital Earth](https://pcoconvin.eventsair.com/isde23/) - Event dedicated to bring together policy makers and scientists and will explore pathways towards the vision of a ‘Digital Earth
+* [International Symposium on Digital Earth](https://pcoconvin.eventsair.com/isde23/) - Event dedicated to bring together policy makers and scientists and will explore pathways towards the vision of a ‘Digital Earth
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs2020-nice.com/) - The ISPRS Congress is the leading forum where classical and emergent topics related to photogrammetry, remote sensing, and spatial information sciences are discussed.
 * [RCMRD International Conference](https://www.rcmrd.org/) - Annual conference held in Nairobi - Kenya, bringing together policymakers, executives, experts, researchers, developers, and innovators worldwide to exchange insights in Earth observation (EO) and Geographic Information System (GIS).
 * [SBSR](https://2023.sbsr.com.br/) - Bi-annual Brazilian National Symposium on Remote Sensing.
-* [Spatial Data Conference](https://spatial-data-science-conference.com/) -  Annual Conferece that intersects GIS, Advanced Analytics & Data Science that is growing rapidly & answering some of the most pressing questions in both the private & public sector.
+* [Spatial Data Conference](https://spatial-data-science-conference.com/) -  Annual Conference that intersects GIS, Advanced Analytics & Data Science that is growing rapidly & answering some of the most pressing questions in both the private & public sector.
 * [State of the Map](https://stateofthemap.org/) - Annual event for all mappers and OpenStreetMap users.
 
 ## Podcasts
